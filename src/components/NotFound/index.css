@@ -1,0 +1,28 @@
+.not-found-page {
+  min-height: 100vh;
+}
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-image {
+  width: 400px;
+  margin-top: 80px;
+}
+
+.not-found-heading {
+  color: #1e293b;
+  font-size: 36px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.not-found-para {
+  color: #475569;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
